@@ -23,6 +23,6 @@ $ ./SP1Assembler/sp1a <file_name>.nasm -o <binary_file_name>.bin
 
 ### Run the emulator:
 ```
-$ gcc sp1.c -o <file_name>.exe
-$ ./<file_name>.exe <binary_file_name>.bin
+$ gcc sp1.c -o sp1.exe
+$ ./sp1.exe <binary_file_name>.bin
 ```
