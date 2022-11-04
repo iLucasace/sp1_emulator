@@ -16,9 +16,9 @@ $ cd ./SP1Assembler
 $ make
 ```
 
-### Assemble the .nasm program to .bin:
+### Assemble the .asm program to .bin:
 ```
-$ ./SP1Assembler/sp1a <file_name>.nasm -o <binary_file_name>.bin
+$ ./SP1Assembler/sp1a <file_name>.asm -o <binary_file_name>.bin
 ```
 
 ### Run the emulator:
